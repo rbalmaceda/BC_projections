@@ -2,6 +2,7 @@
 
 Evaluate different BA methods for southeastern South America (SESA) with a special focus on the estimation of multivariate heat-stress indices.
 Two main indices are evaluated 
+
 *Wet bulb temperature (wbt)*   
 *Simplified wet bulb globe temperature (swbgt)* 
 
